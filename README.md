@@ -34,7 +34,7 @@ In folder **scripts**, there are ten coding script in it.
  - **S03_validation.py**: stratified split the training set to equal parts (details in *Data Collection and Curation* of the manuscript);
  - **S04_modeling.py**: random forest workflows (details in *Ligand-based Machine Learning Models* of the manuscript);
  - **S05_consensus.py**: build consensus models from several sub-models (details in *Ligand-based Machine Learning Models* of the manuscript);
- - **S06_consensus.py**: BRICS molecular generation workflows (details in *Molecular Generation* of the manuscript);
+ - **S06_genmols.py**: BRICS molecular generation workflows (details in *Molecular Generation* of the manuscript);
  - **cal_fingerprint.py**: imported functions for *S04_modeling.py*;
  - **cal_descriptor.py**: imported functions for *S04_modeling.py*;
  - **modeling_rfc_fp.py**: imported functions for *S04_modeling.py*;
