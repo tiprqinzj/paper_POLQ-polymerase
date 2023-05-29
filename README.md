@@ -25,7 +25,7 @@ In folder **data**, there are eight files in it.
 In folder **models**, there are two folders in it.
 
  - **Model2**: containing 30 sub-models, which build consensus Model 2;
- - **Model2**: containing 15 sub-models, which build consensus Model 4.
+ - **Model4**: containing 15 sub-models, which build consensus Model 4.
 
 In folder **scripts**, there are ten coding script in it.
 
